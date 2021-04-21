@@ -1,1 +1,1 @@
-# Data-Science-ML-Coding-Challenge
+# Data Science and ML Coding Challenge
